@@ -6,9 +6,9 @@
 
 About Me:
 
-🔭 I’m a student Currenty Studying Computer Science and AI at Victoria University.
-🌱 I’m currently learning Java and the fundamentals of AI.
-🥅 My biggest goal is to pass my first year university courses.
+🔭 I’m a student currenty studying IT at Wellington Institute of Technology.
+🌱 I’m currently learning C#, Cyber Security, Discreet Mathematics, and Web Design.
+🥅 My biggest goal is to expand my knowlege and learn something new everyday.
 
  ```
 ![ProfileViews](https://komarev.com/ghpvc/?username=Cyber-Dylan&style=flat&color=blueviolet)
