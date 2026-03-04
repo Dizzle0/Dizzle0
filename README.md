@@ -1,7 +1,7 @@
 <h1 align="center"> Hello!</h1>
 
 ```css
-┌[dylan@dylantaylor.net]-(~)
+┌[dylan@dizzled.dev]-(~)
 └> cat AboutMe.txt
 
 About Me:
