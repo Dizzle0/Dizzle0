@@ -12,7 +12,7 @@ About Me:
  ```
 ![ProfileViews](https://komarev.com/ghpvc/?username=Cyber-Dylan&style=flat&color=blueviolet)
 
-### Languages and Tools I use:
+### 🛠 Languages and Tools I use:
 
 <img align="left" alt="Visual Studio Code" width="32px" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
 <img align="left" alt="JetBrains" width="32px" src="https://github.com/devicons/devicon/blob/master/icons/jetbrains/jetbrains-original.svg" style="padding-right:10px;" />
@@ -41,7 +41,7 @@ About Me:
 </p>
 
 <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/[Dizzle0]/[Dizzle0]/output/pacman-contribution-graph-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/[Dizzle0]/[Dizzle0]/output/pacman-contribution-graph.svg">
-    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/[Dizzle0]/[Dizzle0]/output/pacman-contribution-graph.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Dizzle0/Dizzle0/output/pacman-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Dizzle0/Dizzle0/output/pacman-contribution-graph.svg">
+    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Dizzle0/Dizzle0/output/pacman-contribution-graph.svg">
 </picture>
