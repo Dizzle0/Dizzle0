@@ -7,7 +7,7 @@
 About Me:
 
 🔭 Student currenty studying IT at Wellington Institute of Technology.
-🌱 Currently learning C#, Cyber Security, Discreet Mathematics, and Web Design.
+🌱 Currently learning C#, IT Systems Maintenance, and Business Analysis for IT.
 
  ```
 ![ProfileViews](https://komarev.com/ghpvc/?username=Cyber-Dylan&style=flat&color=blueviolet)
